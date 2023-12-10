@@ -8,7 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: yellowgreen;
+  background-color: rgb(68, 48, 215);
 }
 
 code {
@@ -31,7 +31,7 @@ button {
 }
 
 button:hover {
-  background-color: rgb(83, 123, 193);
+  background-color: rgb(249, 228, 36);
 }
 
 .feedback__box {
